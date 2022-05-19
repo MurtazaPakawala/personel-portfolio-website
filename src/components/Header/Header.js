@@ -32,6 +32,14 @@ const Header = () => (
         <NavLink>Technologies</NavLink>
       </Link>
     </Div2>
+    <Div3>
+      <SocialIcons href="https://github.com/MurtazaPakawala">
+        <AiFillGithub size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://www.linkedin.com/in/murtaza-pakawala-463760100/">
+        <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+    </Div3>
   </Container>
 );
 
