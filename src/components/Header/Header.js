@@ -28,9 +28,6 @@ const Header = () => (
       <Link href="#projects">
         <NavLink>Projects</NavLink>
       </Link>
-      <Link href="#tech">
-        <NavLink>Technologies</NavLink>
-      </Link>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/MurtazaPakawala">
